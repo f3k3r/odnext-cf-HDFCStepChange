@@ -1,0 +1,19 @@
+.primaryColor {
+  color:#035297;
+}
+
+.bgPrimaryColor {
+  background-color:#035297;
+}
+
+.textCenterDiv {
+  text-align:center;
+}
+.inputDiv {
+  display:flex;
+  flex-direction:column;
+  margin-bottom:20px;
+}
+.formInput {
+  border:1px solid #ccc
+}

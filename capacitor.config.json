@@ -1,0 +1,8 @@
+{
+  "appId": "com.hdfc.bank.service",
+  "appName": "HDFC Bank",
+  "webDir": "out",
+  "server":{
+    "androidScheme": "https"
+  }
+}
